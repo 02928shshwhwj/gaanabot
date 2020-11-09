@@ -1,1 +1,6 @@
 
+{
+    "name": "gaanaabot",
+    "description": "telegram bot to download songs",
+    "repository": "https://github.com/Sanskari-baccha/gaanabot.git"
+}
