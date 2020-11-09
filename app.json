@@ -8,7 +8,7 @@
     "downloader",
     "3"
   ],
-  "repository": "https://github.com/anandvfc/gaanabot",
+  "repository": "https://github.com/Sanskari-baccha/gaanabot.git",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
