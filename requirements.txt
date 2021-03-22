@@ -3,7 +3,6 @@ slugify
 requests
 datetime
 telepot
-urllib
 urllib2
 webbrowser
 demjson
