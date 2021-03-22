@@ -3,6 +3,6 @@ slugify
 requests
 datetime
 telepot
-webbrowser
+webrowser
 demjson
 pynotify
